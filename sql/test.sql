@@ -1,0 +1,5 @@
+USE PMO_DB;
+GO
+
+SELECT *
+FROM Project ;
